@@ -14,7 +14,7 @@ A Deep Q-Network (DQN) agent trained to solve the CartPole-v1 environment from G
 *Average score over the last 100 episodes — the agent steadily improves as epsilon decays and exploration gives way to learned policy.*
 
 ### CartPole in Action
-https://github.com/VelosoMiguel/Deep-q-learning-cartpole/issues/1#issue-4544409408
+https://github.com/user-attachments/assets/0a0ede2b-a2df-443b-9d6d-30add5b4908e
 
 *The trained agent balancing the pole in the CartPole environment.*
 
