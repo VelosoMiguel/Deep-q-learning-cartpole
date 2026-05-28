@@ -1,7 +1,7 @@
 # Deep-q-learning-cartpole
 Deep Q-Network agent that learns to balance a pole using reinforcement learning
 
-# 🤖 Deep Q-Learning — CartPole-v1
+# 🤖 Deep Q-Learning — CartPole
 
 A Deep Q-Network (DQN) agent trained to solve the CartPole-v1 environment from Gymnasium. The agent learns to balance a pole on a moving cart using reinforcement learning, with a live training visualization updated in real time.
 
